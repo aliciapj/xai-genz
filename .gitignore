@@ -1,3 +1,8 @@
+# StyleSage docs
+stylesage-notebooks/finetune.model
+stylesage-notebooks/weights.best.hdf5
+stylesage-notebooks/images
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
