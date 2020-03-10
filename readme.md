@@ -2,7 +2,6 @@
 
 ## Project description
 The general purpose examples, included in the root path of this repo, are using the [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset. 
-![alt text](https://github.com/zalandoresearch/fashion-mnist/blob/master/doc/img/fashion-mnist-sprite.png "Fashion-MNIST")
 In this notebooks you will find some tests using explainability methods implemented in Python:
 - [Activation Layers](https://raghakot.github.io/keras-vis/vis.visualization/#visualize_activation): Generates the model input that maximizes the output of all filter_indices in the given layer_idx
 - [Saliency](https://raghakot.github.io/keras-vis/vis.visualization/#visualize_saliency): Generates an attention heatmap over the seed_input for maximizing filter_indices output in the given layer_idx
