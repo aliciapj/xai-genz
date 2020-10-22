@@ -2,7 +2,7 @@
 
 This repo contains the resources used in the talk "Que la generación Z no rompa tus modelos":
 - 2019-10-05: [PyConEs Alicante](https://pycones19.sched.com/event/VdMa/que-la-generacion-z-no-rompa-tus-modelos) | [Slides](https://static.sched.com/hosted_files/pycones19/d0/PyCon2019%20-%20Fairness_Bias.pdf) - [Video](https://www.youtube.com/watch?v=Kq2pk99OD90)
-- 2020-xx-xx: T3chFest Madrid | Slides soon
+- 2020-10-22: PyData Salamanca
 
 ### Alphanumeric data sets
 * [Adult Census Income](/adult-census-income): This data was extracted from the 1994 Census bureau database by Ronny Kohavi and Barry Becker (Data Mining and Visualization, Silicon Graphics). A set of reasonably clean records was extracted using the following conditions: ((AAGE>16) && (AGI>100) && (AFNLWGT>1) && (HRSWK>0)). The prediction task is to determine whether a person makes over $50K a year. More info [here](https://www.kaggle.com/uciml/adult-census-income)
